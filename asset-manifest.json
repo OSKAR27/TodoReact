@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TodoReact/static/css/main.85d0432d.css",
+    "main.js": "/TodoReact/static/js/main.0fb80f5f.js",
+    "static/media/platzi.webp": "/TodoReact/static/media/platzi.5b31ce99c22184cfdc82.webp",
+    "index.html": "/TodoReact/index.html",
+    "main.85d0432d.css.map": "/TodoReact/static/css/main.85d0432d.css.map",
+    "main.0fb80f5f.js.map": "/TodoReact/static/js/main.0fb80f5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d0432d.css",
+    "static/js/main.0fb80f5f.js"
+  ]
+}
